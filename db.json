@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "email": "silvia@gmail.com",
+      "senha": "Hyyxx@123abc",
+      "id": 1
+    },
+    {
+      "email": "antonio@gmail.com",
+      "senha": "Rxcvcc@1234xx",
+      "id": 2
+    }
+  ],
+  "noticias": [
+      {
+        "id": 1,
+        "imagem": "",
+        "titulo": "Hoje tá frio",
+        "descricao": "Hoje em São Paulo tá muito frio"
+      },
+      {
+        "id": 2,
+        "imagem": "",
+        "titulo": "Hoje tá frio",
+        "descricao": "Hoje em São Paulo tá muito frio"
+      },
+      {
+        "id": 3,
+       "imagem": "",
+        "titulo": "Hoje tá frio",
+        "descricao": "Hoje em São Paulo tá muito frio"
+      },
+      {
+        "id": 4,
+        "imagem": "",
+        "titulo": "Hoje tá frio",
+        "descricao": "Hoje em São Paulo tá muito frio"
+      },
+      {
+        "id": 5,
+        "imagem": "",
+        "titulo": "Hoje tá frio",
+        "descricao": "Hoje em São Paulo tá muito frio"
+      },
+      {
+        "id": 6,
+        "imagem": "",
+        "titulo": "Hoje tá frio",
+        "descricao": "Hoje em São Paulo tá muito frio"
+      },
+      {
+        "imagem": "",
+        "titulo": "amanha vai estar calor",
+        "descricao": "espero que amanha esteja calor",
+        "id": 7
+      }
+    ]
+  }
